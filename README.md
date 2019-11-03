@@ -1,13 +1,7 @@
-# Flask MVC Boilerplate
-This is a Flask MVC boilerplate that includes:
+# Root Webapp built on Flask
+Work in Progess:
 
-  - Login required decorator /w redirect
-  - SQLAlchemy & MongoDB ready
-  - Models, Views, Controllers (Routes) structured via blueprints
-  - Route method (success vs error) handling
-  - Mailer class
-  - Configuration file
-  - JWT-Extended integration
+  - Placeholder
 
 ### Installation
 
@@ -24,5 +18,5 @@ pip install -r requirements.txt
 3. Run:
 
 ```python
-python run.py
+python manage.py
 ```
